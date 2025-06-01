@@ -1,5 +1,7 @@
-2025/06/01-10:47:54.999564 7f540e7fc6c0 Delete type=3 #1
-2025/06/01-10:55:56.101505 7f4ee139b6c0 Level-0 table #5: started
-2025/06/01-10:55:56.101545 7f4ee139b6c0 Level-0 table #5: 0 bytes OK
-2025/06/01-10:55:56.207730 7f4ee139b6c0 Delete type=0 #3
-2025/06/01-10:55:56.356917 7f4ee139b6c0 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)
+2025/06/01-11:00:22.388429 7f540cff96c0 Recovering log #4
+2025/06/01-11:00:22.716078 7f540cff96c0 Delete type=3 #2
+2025/06/01-11:00:22.716191 7f540cff96c0 Delete type=0 #4
+2025/06/01-11:37:24.142793 7f4ee139b6c0 Level-0 table #9: started
+2025/06/01-11:37:24.206544 7f4ee139b6c0 Level-0 table #9: 6629 bytes OK
+2025/06/01-11:37:24.270313 7f4ee139b6c0 Delete type=0 #7
+2025/06/01-11:37:24.770497 7f4ee139b6c0 Manual compaction at level-0 from '!folders!DjgzDORYqMdrymn6' @ 72057594037927935 : 1 .. '!playlists.sounds!vmfZ6maZelC5Wpyc.Y0ANxVApR4pNqNUL' @ 0 : 0; will stop at (end)
