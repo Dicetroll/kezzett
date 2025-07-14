@@ -1,8 +1,17 @@
-2025/06/18-19:06:58.482272 7f4f9d93d6c0 Recovering log #108
-2025/06/18-19:06:58.808137 7f4f9d93d6c0 Delete type=3 #106
-2025/06/18-19:06:58.808311 7f4f9d93d6c0 Delete type=0 #108
-2025/06/18-19:21:41.204437 7f4a6b1206c0 Level-0 table #113: started
-2025/06/18-19:21:41.204504 7f4a6b1206c0 Level-0 table #113: 0 bytes OK
-2025/06/18-19:21:41.300291 7f4a6b1206c0 Delete type=0 #111
-2025/06/18-19:21:41.385328 7f4a6b1206c0 Manual compaction at level-0 from '!actors!0KcCP14oDcTJuJqJ' @ 72057594037927935 : 1 .. '!folders!vc6gdr402ULpQTjE' @ 0 : 0; will stop at (end)
-2025/06/18-19:21:41.385397 7f4a6b1206c0 Manual compaction at level-1 from '!actors!0KcCP14oDcTJuJqJ' @ 72057594037927935 : 1 .. '!folders!vc6gdr402ULpQTjE' @ 0 : 0; will stop at (end)
+2025/07/12-16:12:31.732130 7f4f9d93d6c0 Recovering log #200
+2025/07/12-16:12:32.140755 7f4f9d93d6c0 Delete type=3 #198
+2025/07/12-16:12:32.140867 7f4f9d93d6c0 Delete type=0 #200
+2025/07/13-17:34:32.918891 7f4a6b1206c0 Level-0 table #205: started
+2025/07/13-17:34:32.982381 7f4a6b1206c0 Level-0 table #205: 739166 bytes OK
+2025/07/13-17:34:33.025150 7f4a6b1206c0 Delete type=0 #203
+2025/07/13-17:34:33.025821 7f4a6b1206c0 Manual compaction at level-0 from '!actors!0KcCP14oDcTJuJqJ' @ 72057594037927935 : 1 .. '!folders!vc6gdr402ULpQTjE' @ 0 : 0; will stop at (end)
+2025/07/13-17:34:33.025972 7f4a6b1206c0 Manual compaction at level-1 from '!actors!0KcCP14oDcTJuJqJ' @ 72057594037927935 : 1 .. '!folders!vc6gdr402ULpQTjE' @ 0 : 0; will stop at '!folders!JktoA8p64d4QOg76' @ 3399 : 1
+2025/07/13-17:34:33.025986 7f4a6b1206c0 Compacting 1@1 + 2@2 files
+2025/07/13-17:34:33.120771 7f4a6b1206c0 Generated table #206@1: 842 keys, 2123364 bytes
+2025/07/13-17:34:33.259074 7f4a6b1206c0 Generated table #207@1: 498 keys, 739290 bytes
+2025/07/13-17:34:33.259125 7f4a6b1206c0 Compacted 1@1 + 2@2 files => 2862654 bytes
+2025/07/13-17:34:33.760372 7f4a6b1206c0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2025/07/13-17:34:33.760562 7f4a6b1206c0 Delete type=2 #100
+2025/07/13-17:34:33.760983 7f4a6b1206c0 Delete type=2 #101
+2025/07/13-17:34:33.761153 7f4a6b1206c0 Delete type=2 #205
+2025/07/13-17:34:33.972094 7f4a6b1206c0 Manual compaction at level-1 from '!folders!JktoA8p64d4QOg76' @ 3399 : 1 .. '!folders!vc6gdr402ULpQTjE' @ 0 : 0; will stop at (end)
